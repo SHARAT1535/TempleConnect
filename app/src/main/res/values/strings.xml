@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TempleConnect</string>
+    <string name="login">Login</string>
+    <string name="email">Email\n</string>
+    <string name="password">Password\n</string>
+    <string name="register">register\n\t</string>
+    <string name="Register">Register</string>
+    <string name="click_to_login" />
+    <string name="click_to_register" />
+    <string name="logout" />>
+</resources>

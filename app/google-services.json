@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "686806906209",
+    "project_id": "templeconnect-de9e9",
+    "storage_bucket": "templeconnect-de9e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686806906209:android:3e2d6f5678ee95231fc120",
+        "android_client_info": {
+          "package_name": "com.example.templeconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZrTTYxsT15_S3Ep_dfgz5BZ4yn2TfS1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
